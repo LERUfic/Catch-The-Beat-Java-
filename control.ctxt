@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=control
+comment1.params=
+comment1.target=control()
+comment10.params=e
+comment10.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=java.awt.Image\ getImage()
+comment6.params=visible
+comment6.target=void\ setVisible(boolean)
+comment7.params=
+comment7.target=boolean\ isVisible()
+comment8.params=
+comment8.target=java.awt.Rectangle\ getBounds()
+comment9.params=e
+comment9.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=11

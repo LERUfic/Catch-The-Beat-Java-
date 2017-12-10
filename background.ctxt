@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=background
+comment1.params=
+comment1.target=background()
+comment2.params=
+comment2.target=void\ addNotify()
+comment3.params=
+comment3.target=void\ initFruits()
+comment4.params=fileName
+comment4.target=java.awt.Image\ loadImage(java.lang.String)
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=void\ checkCollisions()
+numComments=8
